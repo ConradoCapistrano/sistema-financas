@@ -36,7 +36,7 @@ git clone https://github.com/ConradoCapistrano/sistema-financas
 ```
 
 ### Acessar o Site do Projeto :
-[https://jogo-rpg-conrado-capistrano.netlify.app/]
+[https://sistema-financas-conrado-capistrano.netlify.app/]
 
 # Creator / Autor
 
